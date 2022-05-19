@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/slack/static/css/main.dfc0025f.css",
+    "main.js": "/slack/static/js/main.6d42e49f.js",
+    "index.html": "/slack/index.html",
+    "main.dfc0025f.css.map": "/slack/static/css/main.dfc0025f.css.map",
+    "main.6d42e49f.js.map": "/slack/static/js/main.6d42e49f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dfc0025f.css",
+    "static/js/main.6d42e49f.js"
+  ]
+}
