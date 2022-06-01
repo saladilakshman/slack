@@ -217,6 +217,7 @@ function App(){
     </div>
 </div>
    </div>
+        <div className="container">
    <div className="row">
        <div className="col-sm-12"id="polo">
            <h1 className="text-center text-white mt-5">Welcome To Where the future Works</h1>
@@ -224,6 +225,7 @@ function App(){
            <button className="btn"id="loki">TRY FOR FREE</button>
            <button className="btn"id="tony">TALK TO SALES</button>
            </div>
+        </div>
        </div>
    </div>
    <div className="row mt-4">
