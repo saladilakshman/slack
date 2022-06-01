@@ -43,6 +43,7 @@ function App(){
         }
     }
     return(<>
+           <div className="container">
    <div className="main">
        
 <nav className="navbar navbar-expand-sm ms-5 "id="led">
@@ -262,6 +263,7 @@ function App(){
         </>);
     })}
 </div>
+
 <div className="col-sm-2">
 {columnFour.map((item)=>{
         return(<>
@@ -304,7 +306,7 @@ function App(){
 
    <p className="size-10">©2022 Slack Technologies, LLC, a Salesforce company. All rights reserved. Various trademarks held by their respective owners.</p>
    </div>
-   
+   </div>
     </>);
 }
 ReactDOM.render(<App/>,document.getElementById("root")); 
