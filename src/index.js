@@ -43,7 +43,7 @@ function App(){
         }
     }
     return(<>
-           <div className="container">
+           <div className="container-fluid">
    <div className="main">
        
 <nav className="navbar navbar-expand-sm ms-5 "id="led">
